@@ -1,0 +1,14 @@
+{
+    "name": "Fruit Basket",
+    "fruits": {
+        "Apple": {
+            "taste": "sweet",
+            "color": "red"
+        },
+        "Banana": {
+            "taste": "sweet",
+            "color": "yellow"
+        }
+    },
+    "count": 2
+}
